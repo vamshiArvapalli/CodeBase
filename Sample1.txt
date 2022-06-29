@@ -5,3 +5,5 @@ making some changes to test commit
 lets test status command
 
 but it was reflected without add ..lets test again
+
+adding details to test merge now
