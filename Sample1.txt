@@ -1,0 +1,3 @@
+First sammle file to learn GIT in detailed 
+
+making some changes to test commit
