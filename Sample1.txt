@@ -1,3 +1,7 @@
 First sammle file to learn GIT in detailed 
 
 making some changes to test commit
+
+lets test status command
+
+but it was reflected without add ..lets test again
