@@ -7,3 +7,4 @@ lets test status command
 but it was reflected without add ..lets test again
 
 adding details to test merge now
+Added content to check pull
