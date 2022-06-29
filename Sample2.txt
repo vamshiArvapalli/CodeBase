@@ -1,3 +1,1 @@
-Lets test by adding other 2nd file
-
-Again testing for merge concepts
+Sample2
